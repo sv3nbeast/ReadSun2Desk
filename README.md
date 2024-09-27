@@ -1,2 +1,2 @@
-# ReadSunClient
-读取dump向日葵进程的文件获得连接信息
+# ReadSun2Desk
+读取dump向日葵andTodesk进程的文件获得连接信息
